@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 
@@ -11,6 +9,8 @@ public class CardController : MonoBehaviour
 {
     public ColorEnum color;
     public Transform mesh;
+
+    public bool IsPicked;
 
     private void Awake()
     {
@@ -32,4 +32,12 @@ public class CardController : MonoBehaviour
                 break;
         }
     }
+
+
+
+    public void GetPicked()
+    {
+
+    }
+
 }
