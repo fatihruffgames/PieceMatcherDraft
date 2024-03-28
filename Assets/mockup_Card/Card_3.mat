@@ -142,7 +142,7 @@ Material:
     - _useRedChannel: 0
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
-    - _Color: {r: 0.9716981, g: 0.32695496, b: 0.3477531, a: 1}
+    - _Color: {r: 1, g: 0.32695493, b: 0.34775308, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FresnelColor: {r: 0, g: 0, b: 0, a: 0}
     - _HSV: {r: 0, g: 0, b: 0, a: 0}

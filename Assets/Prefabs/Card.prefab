@@ -166,6 +166,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   color: 0
   mesh: {fileID: 6541098057691420927}
+  darkMaterials:
+  - {fileID: 2100000, guid: 84337e18471d3f74a9674ffcbc6c39f8, type: 2}
+  - {fileID: 2100000, guid: 7582be8eece87e64ea32e0b75f0ff43c, type: 2}
+  - {fileID: 2100000, guid: 8129949f8841c834db66def3c1588bf1, type: 2}
 --- !u!1001 &3543164461735609524
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -44,3 +44,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0342ac493833a5d428c1161d035587ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  stackLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  blockPicking: 0
+  firstSelected: {fileID: 0}
